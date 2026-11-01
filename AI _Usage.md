@@ -2,6 +2,7 @@ The AI tool I used to help me with this project whas ChatGPT, to explain python 
 I had during the data aquisitin and analysis process.
 
 Throughout the project, I used ChatGPT to help me understand different stages of the assignment, including:
+
 Understanding how to explore and inspect my Kaggle dataset using pandas.
 Getting guidance on scraping additional data from a website using Python.
 Understanding how to create age groups and merge the two datasets.
@@ -9,16 +10,26 @@ Explaining Python calculations used to estimate bedtime.
 Troubleshooting errors and understanding what different pieces of code do.
 
 Some example prompts I used during this project were:
+
 "How do I scrape a table from a website using Python?"
+
 "Why is it a left merge and not an inner merge?"
+
 "Can you explain what this Python code does?"
+
 "Would a scatterplot be the best plot to use to compare bedtime phone usage with estimated bedtime?"
+
 "is -60 not easier to workout than 1380 minutes" this explained to me why negatives dont work well in python when trying to calculate estimaded seep hours.
+
 "why is it best to make python code after midnight instead of all together" this is where I found out python treats midnight as 0
+
 "what does sleep latency actually mean in the real world"
+
 "Can I estimate bedtime by using the recommended wake time, the amount of sleep a person gets and the time they take to fall asleep?"
+
 "my idea was that I would just be estimating" This was when I asked if my variation idea for this website would be a good idea and 
 chatgpt said that I would have to be careful as I do not know the actual bedtimes of these people.
+
 "would getting the correlation coeficient be a good idea to help me undertsnad what the scatterplot is saying as there is a lot of points on it"
 
 
